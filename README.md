@@ -1,6 +1,9 @@
+
 # 管理sc上网软件小工具
-### 用法
-version:Test1.0.1
+
+## 用法
+
+*version:Test1.0.1*
 >共9个功能
 1.蓝灯
 2.shadowsocksR
